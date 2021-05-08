@@ -1,0 +1,12 @@
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+env/
+db.sqlite3
+
+.vscode/settings.json
+*.csv
+.vscode/
+*.log
